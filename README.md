@@ -14,4 +14,6 @@ The most common use of Elevator is to take people from one floor to another.
 
 The elevator interface should be simple and less complicated.
 
+The elevators can provide a feedback by either blinking the button pushed or display the button pushed on the display. In addition to that it can play an voice recording of which button is pushed.
+
 ![4](img.jpg)
