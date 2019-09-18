@@ -18,6 +18,9 @@ The elevators can provide a feedback by either blinking the button pushed or dis
 
 Mistakes that can be made in designing an elevator interface
 
+1. Too many buttons close to each other.
+2. Response time is more.
+
 ![4](img.jpg)
 
 So the interface design I implemented provides 2 feedbacks to the user.
