@@ -16,4 +16,11 @@ The elevator interface should be simple and less complicated.
 
 The elevators can provide a feedback by either blinking the button pushed or display the button pushed on the display. In addition to that it can play an voice recording of which button is pushed.
 
+Mistakes that can be made in designing an elevator interface
+
 ![4](img.jpg)
+
+So the interface design I implemented provides 2 feedbacks to the user.
+1. It displays the current operation to be performed.
+2. It provides an audio message of which operation is performed when the button is pushed.
+
