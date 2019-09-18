@@ -12,4 +12,6 @@ The common uses of Elevator
 
 The most common use of Elevator is to take people from one floor to another.
 
+The elevator interface should be simple and less complicated.
+
 ![4](img.jpg)
