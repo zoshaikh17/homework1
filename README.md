@@ -27,3 +27,4 @@ So the interface design I implemented provides 2 feedbacks to the user.
 1. It displays the current operation to be performed.
 2. It provides an audio message of which operation is performed when the button is pushed.
 
+![4](Elevator.gif)
