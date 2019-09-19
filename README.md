@@ -31,5 +31,5 @@ So the interface design I implemented provides 2 feedbacks to the user.
 
 This is the link to my presentation file: https://github.com/zoshaikh17/homework1
 This is the link to my github repo: https://zoshaikh17.github.io/homework1/
-This is the link to my teaser:
+This is the link to my teaser: https://github.com/zoshaikh17/homework1/blob/master/Elevator.gif
 
