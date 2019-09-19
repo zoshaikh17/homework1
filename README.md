@@ -30,6 +30,6 @@ So the interface design I implemented provides 2 feedbacks to the user.
 ![4](Elevator.gif)
 
 This is the link to my presentation file:
-This is the link to my github repo:
+This is the link to my github repo: https://zoshaikh17.github.io/homework1/
 This is the link to my teaser:
 
